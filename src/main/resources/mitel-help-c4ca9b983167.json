@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mitel-help",
+  "private_key_id": "c4ca9b98316779b15bd58f1a1be5111c4f5c73ec",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCfWm1T3NapGCVr\n5u/IKJTdNE0V8ivojpWlspxbg/pb6rQXI10KTHJmxVw25MQq/jQ3pvgtlDtc85iC\ncvQXmr+JQM6HVBdeV3sYKXxR6vZpqzSp66b0WIQ2xpJw3zpEm5+Hh712KpTKsBYG\nr1DB6edZu3U4no3f65TH1e2CIOZEafO2JrCv4mSmhjZdS6Q2HCWK3UqKJnoIQHuE\n9haEmtOK4GfoyVmobrJXsKTuptnra08kekytnk5179s39zzkqptMcfSoTwiLI0JT\nJ5x3v4yu6Jkbtj+0NzdlefpEAocpiOpaJ7jhpj/IxMHs2PRGK3gkQKIKT/M0xv7U\n31/mBpxNAgMBAAECggEAAjixs8U0vqSp2oi6uafed2ZiKkA+kvx3wS81RkYmwsag\nZavxgTBHV6V8wVg1fh08VDyE2ms4zMB8esNsIcHfe0Xor9w3keMHyXoek+EvGbBs\nk+fWegWbpFt9T2z64VmsvxkVXPt/gvu6FTu3FTqbYk5Lm/UhqIvp4GGJPEtCACvW\n/kQ8yskcNA8/LcCB0ENNral57OQdmtbOW9QmAF7TyAbvrHUYMO5VUTzBZ8g1paEN\nB9/JCU4ngpY9qPkHGC2LLsZ/sJX4QIXFWihDgmKvLGN6uYgjxPQpCx50EIzIkYwo\nLAsyedqrSVdqbij9qND05hqV4D4WWGsvmFti5CjUswKBgQDhP6QphgaGWugYJqjJ\nUN5ebrr1Vs5l+WWksNHqgaFxDKfTGUK9QacTzDDCiwSu6Q+N6tY1Ifk70UXEjmV6\nQcSvpxlSp988fC6l4t43q2CWNBfAjAc9+aC04GN0Rjd5ZrKfggngEt43tuuITt3m\nJYvp9qda6t0hk9H3tl4qSurOFwKBgQC1G8QaqxoRkyIeS9JsDFzwK2lQxVxGOjRT\nXdwkFiAiU2VXYHCuLdmjsUP8127WFAWUerVREbgDfnhCHd4fOkK5Su3ox3YD6Xez\nGP7DXehlHZBPNVbOZGllzZRZjaNyHQ65ngCkc+ep2h8s5V9gufyBsSriACqiHaoJ\nRDBw3VbrOwKBgATO7fsw8Dy3/hJd6OZ7QnPzmywXkUpd+4x7dc+yuraGFaMM+/68\nQwvKJRRSEWSGdx2JcM8rjX14Zyvd+k6UztUNFR5NlRdec0R5RlMb5nDuZb9nfdQV\n2xdhXt4hjZea2J9NEFbnMDUyQ27ieBwsmwMAj+wB7XyFAktuai4u8To7AoGAITYQ\nRhuuUh67GPcqhSnXOSucynUGsNInmkoR/oQYLHNCmD1VLHu3926gWxNefd96Dnpa\nGZ24MtvUTbuQagWTCsuUySUanSkJDEy/GzBzV2eOeRf87Sg4s7R5SdrRaDGv65Xv\n5Dhk+R7IrMD7No+koFvO01bYepYaAk0A3RGZyNUCgYBWIGUSpRy8tCCN2nenbNNa\nfRml1DD6TuS21ZhN+MyfJUcB2NQaUyCVmJw/3T1GuNJviUHCnAQS/+UIyVCVwoPi\no2GoB11+gaEG2D8VAc7tHjfBptAtd2orIQRNL5PaJrZ455iJeKTIFM8yGe44OWDA\nSgzZVaGybRBzksAz5b80+g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mitel-help@mitel-help.iam.gserviceaccount.com",
+  "client_id": "108909868868495228799",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mitel-help%40mitel-help.iam.gserviceaccount.com"
+}
